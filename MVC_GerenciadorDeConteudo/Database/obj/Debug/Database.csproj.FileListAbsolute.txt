@@ -1,0 +1,6 @@
+C:\Users\cesar\source\repos\MVC_GerenciadorDeConteudo\Database\bin\Debug\Database.dll
+C:\Users\cesar\source\repos\MVC_GerenciadorDeConteudo\Database\bin\Debug\Database.pdb
+C:\Users\cesar\source\repos\MVC_GerenciadorDeConteudo\Database\obj\Debug\Database.csprojAssemblyReference.cache
+C:\Users\cesar\source\repos\MVC_GerenciadorDeConteudo\Database\obj\Debug\Database.csproj.CoreCompileInputs.cache
+C:\Users\cesar\source\repos\MVC_GerenciadorDeConteudo\Database\obj\Debug\Database.dll
+C:\Users\cesar\source\repos\MVC_GerenciadorDeConteudo\Database\obj\Debug\Database.pdb
